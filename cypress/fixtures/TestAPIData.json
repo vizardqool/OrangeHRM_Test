@@ -1,0 +1,12 @@
+{
+    "id": 2,
+    "slug" : "food-beverages-update",
+    "newCategory" : {
+                "name": "Beras Setra Ramos", 
+                "image": "https://shopee.co.id/Beras-Setra-Ramos-i.26893845.57351057104"
+    },
+    "updateCategory" : {
+                "name": "NBeras Pandan Wangi",
+                "image": "https://www.pohian.com/shop/beras/bmw-beras-pandan-wangi-5kg/"
+    }
+}
