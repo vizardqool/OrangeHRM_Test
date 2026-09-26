@@ -6,6 +6,7 @@ describe('OrangeHRM - Login Module Test Cases', () => {
     LoginPage.visit();
   });
 
+  
   // TC-LOG-001: Verify login with valid credential
   it('TC-LOG-001: Verify login with valid credential', () => {
     cy.intercept('POST', 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate').as('loginReq');

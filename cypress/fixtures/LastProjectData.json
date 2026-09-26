@@ -1,0 +1,20 @@
+{
+  "validUsername": "Admin",
+  "validPassword": "admin123",
+  "invalidUsername": "SUErrrRR",
+  "invalidPassword": "BukanSaya_77813",
+  "employeeFirstName": "Peter",
+  "employeeMiddleName": "Mac",
+  "employeeLastName": "Anderson",
+  "nonRegisteredEmployeeName": "Mbohlah_4455",
+  "activeEmployeeJob": "Chief Financial Officer",
+  "emptyEmployeeJob": "Head of Support",
+  "activeEmployeeLocation": "New York Sales Office",
+  "emptyEmployeeLocation": "Canadian Regional HQ",
+  "activeCandidatesJob": "Software Engineer",
+  "emptyCandidatesJob": "Content Specialist",
+  "acviteCandidatesVacancy": "Software Engineer",
+  "emptyCandidatesVacancy": "test",
+  "activeCandidatesName": "Phil",
+  "nonCandidatesName": "Jamalaludiara"
+}
